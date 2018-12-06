@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225946824462",
+    "firebase_url": "https://sparkcarepab.firebaseio.com",
+    "project_id": "sparkcarepab",
+    "storage_bucket": "sparkcarepab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225946824462:android:559b1063ea9e7790",
+        "android_client_info": {
+          "package_name": "id.ac.uii.fit.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225946824462-5fglq8n9sf68psagv1slfbrjvtnqvjhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.uii.fit.project",
+            "certificate_hash": "a776eaa3196041ef8b1f5aced801056c3552d015"
+          }
+        },
+        {
+          "client_id": "225946824462-qa0ojbah6h04g70ohsivu6h9amoqbsq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNroxDOdVtKO5f3kf6Xt10EEt8quRXnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225946824462-qa0ojbah6h04g70ohsivu6h9amoqbsq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
